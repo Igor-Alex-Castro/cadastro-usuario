@@ -84,7 +84,7 @@ Visualização de dados por meio de gráficos dinâmicos e interativos.
   <img src="Imagens/Imagem4.jpg" width="300" />
  <img src="Imagens/Imagem5.jpg" width="285" />
  <img src="Imagens/Imagem6.jpg" width="300" />
- <img src="Imagens/Imagem7.jpg" width="300" />
+
  <img src="Imagens/Imagem8.jpg" width="300" />
 </p>
 
