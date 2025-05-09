@@ -79,7 +79,7 @@ Visualização de dados por meio de gráficos dinâmicos e interativos.
 
 ### TELAS DO PROJETO
 <p float="left">
-  <img src="Imagens/Imagem2.jpg" width="230" />
+  <img src="Imagens/Imagem2.jpg" width="300" />
   <img src="Imagens/Imagem3.jpg" width="300" /> 
   <img src="Imagens/Imagem4.jpg" width="300" />
  <img src="Imagens/Imagem5.jpg" width="285" />
